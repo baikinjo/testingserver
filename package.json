@@ -1,0 +1,15 @@
+{
+  "name": "docker_express",
+  "version": "1.0.0",
+  "description": "Express.js on Docker",
+  "main": "nodemon server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Injo Baik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3"
+  }
+}
